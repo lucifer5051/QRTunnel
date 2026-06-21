@@ -1,0 +1,6 @@
+{
+  "name": "Optical File Transfer",
+  "description": "High-speed optical file transport protocol using Multi-QR code grids and parallel webcam quadrant scanners.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
